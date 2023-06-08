@@ -1,0 +1,18 @@
+body {
+    line-height: 1.5;
+}
+
+input,
+textarea {
+    display: block;
+}
+
+input[type="checkbox"]{
+    display: inline;
+    margin-right: 1em;
+}
+
+ul[role="list"] {
+    list-style: none;
+    padding: 0;
+}
